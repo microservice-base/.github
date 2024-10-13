@@ -2,7 +2,7 @@
 
 🍿 The repository is simple example of microservices architecture. 
 
-👩‍💻 https://microservice-base.github.io 
+👩‍💻 Readme -> https://microservice-base.github.io 
 
 <!--
 
