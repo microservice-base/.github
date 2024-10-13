@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🍿 The repository whch is simple example of microservices architecture. 
+🍿 The repository is simple example of microservices architecture. 
 
  https://microservice-base.github.io 
 
